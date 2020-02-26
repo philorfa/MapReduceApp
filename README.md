@@ -1,2 +1,2 @@
 # MapReduceApp
-implemantation of kmeans algorithm using mapreduce
+Ιmplemantation of kmeans algorithm using mapreduce
